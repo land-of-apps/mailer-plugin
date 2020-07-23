@@ -1,4 +1,0 @@
-name: mailer-plugin
-packages:
-- path: hudson
-- path: jenkins.plugins.mailer.tasks
